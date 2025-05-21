@@ -48,10 +48,16 @@ Built with:
 
 ## 📸 UI Preview
 
-| Home Page                     | Train a Model                   | Prediction                          |
-| ----------------------------- | ------------------------------- | ----------------------------------- |
-| ![Home](client/screenshots/home.png) | ![Train](client/screenshots/train.png) | ![Predict](client/screenshots/predict.png) |
+#### Home Page                     
+![Home](client/screenshots/home.png) 
 
+
+#### Train a Model
+![Train](client/screenshots/train.png) 
+
+
+#### Prediction 
+![Predict](client/screenshots/predict.png) 
 
 ---
 
